@@ -175,3 +175,4 @@ Ensure high-throughput dashboard querying by adding a compound index to MongoDB:
 // Run in your MongoDB console
 db.logs.createIndex({ matchId: 1, appName: 1, level: 1, timestamp: -1 });
 ```
+# logit-logger

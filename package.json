@@ -1,6 +1,6 @@
 {
   "name": "logit-logger",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Unified self-hosted logging SDK for Logit. Includes browser frontend capture client and backend server ingestion pipelines.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/Abhi-codex/logit-logger/issues"
   },
-  "homepage": "https://github.com/Abhi-codex/logit-logger#readme",
+  "homepage": "https://logit-viewer.vercel.app",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "exports": {

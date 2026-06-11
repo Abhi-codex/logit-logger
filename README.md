@@ -3,6 +3,7 @@
 Unified logging SDK for the **Logit** self-hosted logging ecosystem. This library contains both the frontend browser log capture client and the backend Express log ingestion/WebSocket server.
 
 🔗 **Quick Links:**
+- **Live Hosted Dashboard (Logit Viewer)**: [https://logit-viewer.vercel.app](https://logit-viewer.vercel.app)
 - **NPM Package**: [https://www.npmjs.com/package/logit-logger](https://www.npmjs.com/package/logit-logger)
 - **Logit Viewer (Dashboard) Repository**: [https://github.com/Abhi-codex/logit-viewer](https://github.com/Abhi-codex/logit-viewer)
 - **GitHub Repository**: [https://github.com/Abhi-codex/logit-logger](https://github.com/Abhi-codex/logit-logger)
